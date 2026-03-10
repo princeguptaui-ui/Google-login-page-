@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -109,7 +109,7 @@ input:focus{
 </div>
 
 <p style="font-size:12px;margin-top:25px;">
-Not your computer? Use Guest mode to sign in privately.
+
 </p>
 
 <div class="buttons">
